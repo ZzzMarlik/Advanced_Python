@@ -1,0 +1,28 @@
+This form must be printed out, filled in, and submitted on MarkUs
+within 7 days of getting your mark.
+       https://markus.teach.cs.toronto.edu/csc148-2017-01/
+
+
+                 CSC 148H -- Winter 2017: REQUEST TO RE-MARK TEST
+                 ================================================
+
+
+  Student number: 1002376555     Lecture section: Lec0101
+
+
+  Last name:      Zhang     Instructor:      Danny Heap
+
+
+  First name:     Make     
+
+
+  Email address:  make.zhang@mail.utoronto.ca     
+
+
+  Test number: Term Test 2 - morning     Date of request: March 22 2017
+
+
+Concisely, and clearly, state what portion of the test was not
+correctly marked.
+
+For Question 2, I have showed my answer to our professor Heap, and he said this is correct and ask me to send remark request. And one more important thing is the mark that Ta gave me is what I lost for this question. Not the mark I earned. i.e. The total mark for Q2 is 6, and he only gives me 1.5 which is the mark I lost.
